@@ -1,4 +1,4 @@
-# vue-firechat2
+# vue-firechat
 
 ## Project setup
 ```
